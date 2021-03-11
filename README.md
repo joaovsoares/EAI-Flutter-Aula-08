@@ -3,7 +3,7 @@
 Conversor de Moeda criado na aula 08 em Flutter/DART para projeto EAI.<br>
 Contém todos os arquivos utilizados na explicação.<br><br>
 Para utilizar, crie um novo projeto Flutter em seu computador e cole estes arquivos na pasta equivalente.
-<br>
+<br><br>
 
 # pubspec.yaml
 <br>
