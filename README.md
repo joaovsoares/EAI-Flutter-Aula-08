@@ -7,7 +7,7 @@ Para utilizar, crie um novo projeto Flutter em seu computador e cole estes arqui
 
 # pubspec.yaml
 <br>
-Não esqueça de adicionar a seguinte dependência:<br>
+Não esqueça de adicionar a seguinte dependência ao seu projeto, modificando este arquivo como demonstrado:<br>
 <ul>
   <li>http: ^0.12.2</li>
 </ul>
